@@ -13,25 +13,7 @@ I’m passionate about uncovering insights from data, creating impactful visuali
 
 ---
 
-### 🚀 **Projects**
-1. [**Sales Analytics Dashboard**](https://github.com/yourusername/sales-analytics)  
-   An interactive Power BI dashboard analyzing sales trends across regions and products.  
-   
-2. [**Customer Segmentation Analysis**](https://github.com/yourusername/customer-segmentation)  
-   Applied unsupervised learning techniques to segment customers based on purchasing behavior.  
-
-3. [**COVID-19 Data Analysis**](https://github.com/yourusername/covid19-analysis)  
-   Exploratory data analysis using Python and visualizations to uncover global trends.  
-
----
-
 ### 📫 **Connect with Me**  
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourportfolio.com)  
-- [Email](mailto:youremail@example.com)  
-
----
-## Contact with me
 <div align="center">
   <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -46,5 +28,6 @@ I’m passionate about uncovering insights from data, creating impactful visuali
     <img src="https://img.shields.io/badge/RESUME-0077B5?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/>
   </a>
 </div>
+---
 
 💡 *"Turning raw data into impactful decisions!"*  
