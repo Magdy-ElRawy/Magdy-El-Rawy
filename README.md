@@ -15,13 +15,13 @@ I’m passionate about uncovering insights from data, creating impactful visuali
 
 ### 📫 **Connect with Me**  
 <div align="center">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:magdyelrawy2022@gmial.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/magdy-el-rawy/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://github.com/Magdy-ElRawy" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-4CAF50?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://your-resume-url.com" target="_blank">
