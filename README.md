@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Magdy El-Rawy  
 
-### Data Analyst | Power BI Specialist 📊 | Python & SQL Enthusiast 🐍  
+### Data Analyst | Power Business Intelligence Developer 📊 | ITI Graduate | Data Enthusiast  
 
-I’m passionate about uncovering insights from data, creating impactful visualizations, and delivering data-driven solutions. My expertise spans data analytics, Power BI dashboards, and Python programming. I thrive on tackling complex problems and turning raw data into actionable insights.  
+I’m passionate about uncovering insights from data, creating impactful visualizations, and delivering data-driven solutions.Recently, I graduated from the Information Technology Institute (ITI), My expertise spans data analytics, BI tools, and Python programming. I thrive on tackling complex problems and turning raw data into actionable insights.  
 
 ---
 
