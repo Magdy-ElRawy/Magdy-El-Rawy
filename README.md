@@ -8,7 +8,7 @@ I’m passionate about uncovering insights from data, creating impactful visuali
 
 ### 🔧 **Skills & Tools**  
 - **Languages:** Python, SQL, DAX  
-- **Tools:** Power BI, Excel, Tableau, Jupyter Notebook  
+- **Tools:** Power BI, Excel, Tableau, Visual Studio, MS SQL Server, Jupyter Notebook  
 - **Techniques:** Data Cleaning, ETL, Data Visualization, Machine Learning  
 
 ---
