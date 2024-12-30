@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Magdy El-Rawy  
 
 ### Data Analyst | Power BI Specialist 📊 | Python & SQL Enthusiast 🐍  
 
