@@ -31,4 +31,4 @@ I’m passionate about uncovering insights from data, creating impactful visuali
 
 ---
 
-💡 *"Turning raw data into impactful decisions!"*  
+## 💡 *"Turning raw data into impactful decisions!"*  
